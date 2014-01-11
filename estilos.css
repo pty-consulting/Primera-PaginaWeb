@@ -154,9 +154,9 @@ nav #publicar_nav a
 	background: gray;
 	border-radius: 4px;
 	color: white;
+	margin-left: 2em;
 	padding-right: 4px:;
 	text-decoration: none;
-
 }
 #contenido .item .datos_item .guardar_item
 {
